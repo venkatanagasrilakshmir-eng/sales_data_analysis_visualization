@@ -32,6 +32,7 @@ $ jupyter notebook
 
 Bar graph of 'Product line','Product type', 'Quantity'.
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas.
-<img width="719" height="704" alt="56715" src="https://github.com/user-attachments/assets/be64005c-3799-4747-a292-bf59e678d56c" />
+<img width="571" height="455" alt="58040" src="https://github.com/user-attachments/assets/93e51a97-a3b7-4e89-9f92-1b36a3190a1f" />
+<img width="632" height="455" alt="58039" src="https://github.com/user-attachments/assets/e656b89b-3b3c-41ee-85b0-ecc2143c4268" />
 Pie graph of 'Product line','Product type', 'Quantity'.
-<img width="720" height="485" alt="56718" src="https://github.com/user-attachments/assets/1cac2d62-5c08-4036-9ba0-4afdc99286ce" />
+<img width="470" height="411" alt="58038" src="https://github.com/user-attachments/assets/a9b25634-c1c7-4ce3-ba7c-0470d9207ae7" />
